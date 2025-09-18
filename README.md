@@ -3,7 +3,6 @@
 Looking for Hacktoberfest projects to contribute to?  
 This repository curates beginner-friendly, actively maintained open source projects participating in Hacktoberfest 2025. Add your favorite repos or discover new places to make your mark!
 
----
 
 <div align="center">
   <a href="https://github.com/MasterAffan/Hacktoberfest-25-Projects/stargazers">
@@ -14,7 +13,6 @@ This repository curates beginner-friendly, actively maintained open source proje
   </a>
 </div>
 
----
 
 ## Stay Updated
 
