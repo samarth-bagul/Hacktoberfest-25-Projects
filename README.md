@@ -5,6 +5,23 @@ This repository curates beginner-friendly, actively maintained open source proje
 
 ---
 
+<div align="center">
+  <a href="https://github.com/MasterAffan/Hacktoberfest-25-Projects/stargazers">
+    <img src="https://img.shields.io/github/stars/MasterAffan/Hacktoberfest-25-Projects?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/MasterAffan/Hacktoberfest-25-Projects/forks">
+    <img src="https://img.shields.io/github/forks/MasterAffan/Hacktoberfest-25-Projects?style=social" alt="GitHub Forks">
+  </a>
+</div>
+
+---
+
+## Stay Updated
+
+Please **star this repository** ⭐️  to keep track of all the latest Hacktoberfest projects and updates! Starring will help you quickly find this list and discover new projects throughout the event.
+
+---
+
 ## Projects
 
 | Project                                                                                           | Tech Stack         | Description                                                                                 |
