@@ -18,7 +18,7 @@ This repository curates beginner-friendly, actively maintained open source proje
 
 Please **star this repository** ⭐️  to keep track of all the latest Hacktoberfest projects and updates! Starring will help you quickly find this list and discover new projects throughout the event.
 
----
+
 
 ## Projects
 
