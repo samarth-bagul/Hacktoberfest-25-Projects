@@ -5,7 +5,7 @@ This repository curates beginner-friendly, actively maintained open source proje
 
 ---
 
-## 📋 Projects
+## Projects
 
 | Project                                                                                           | Tech Stack         | Description                                                                                 |
 |---------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------|
@@ -17,18 +17,18 @@ This repository curates beginner-friendly, actively maintained open source proje
 
 ---
 
-## ✨ How to Contribute
+## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## 📃 License
+## License
 
 [MIT License](LICENSE)
 
 ---
 
-## 🙏 Code of Conduct
+## Code of Conduct
 
 Please read and respect our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to make this community welcoming for all.
