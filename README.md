@@ -21,7 +21,6 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 
 
 ## Projects
-
 | Project                                                                                           | Tech Stack         | Description                                                                                 |
 |---------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------|
 | [golearn](https://github.com/zhravan/golearn)                                                     | Go                 | Rustlings-style CLI exercises to learn Go by solving and verifying small coding puzzles.     |
@@ -29,6 +28,8 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [rimmel](https://github.com/reactivehtml/rimmel)                                                  | TypeScript, JS, HTML| UI library for real DOM apps through event streams and functional/reactive paradigms.        |
 | [tix-cli](https://github.com/TheDevOpsBlueprint/tix-cli)                                          | Python             | Lightning-fast terminal task manager for todos, filtering, and productivity stats.           |
 | [cvimprover-api](https://github.com/CVImprover/cvimprover-api)                                    | Python (Django)    | REST API backend for AI-powered CV/resume generation and optimization.                       |
+| [BOINC](https://github.com/BOINC/boinc)                                                          | java, kotlin, php     | Platform for volunteer computing providing free computational resources for scientific projects. |
+
 
 
 ## How to Contribute
