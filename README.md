@@ -30,19 +30,16 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [tix-cli](https://github.com/TheDevOpsBlueprint/tix-cli)                                          | Python             | Lightning-fast terminal task manager for todos, filtering, and productivity stats.           |
 | [cvimprover-api](https://github.com/CVImprover/cvimprover-api)                                    | Python (Django)    | REST API backend for AI-powered CV/resume generation and optimization.                       |
 
----
 
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
 
----
 
 ## License
 
 [MIT License](LICENSE)
 
----
 
 ## Code of Conduct
 
