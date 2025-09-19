@@ -30,6 +30,9 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [cvimprover-api](https://github.com/CVImprover/cvimprover-api)                                    | Python (Django)    | REST API backend for AI-powered CV/resume generation and optimization.                       |
 | [BOINC](https://github.com/BOINC/boinc)                                                           | Java, Kotlin, PHP    | Platform for volunteer computing providing free computational resources for scientific projects. |
 | [CodeGraphContext](https://github.com/Shashankss1205/CodeGraphContext)                            | Python, JavaScript | CodeGraphContext helps developers and AI coding tools truly understand large codebases by building precise, relationship-aware code graphs. |
+| [Percupuff](https://github.com/lilyvanoekel/percupuff)                                            | Cmajor, TypeScript, React | Open-source drum synthesizer that generates unique percussion sounds. Runs as plugin, standalone app, or in browser. |
+| [vailabel-studio](https://github.com/vailabel/vailabel-studio)                                    | TypeScript, Python        | Lightweight AI-powered auto labeling tool for fast and intelligent annotation. |
+| [Daffodil](https://github.com/graycoreio/daffodil)                                                | TypeScript, HTML, CSS     | Ecommerce development framework for building high-quality storefronts with any backend. |
 
 
 ## How to Contribute
