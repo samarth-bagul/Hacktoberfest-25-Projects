@@ -42,6 +42,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [topgrade](https://github.com/topgrade-rs/topgrade)                                               | Rust                      | Automates upgrading your system, supports Hacktoberfest with easy "good first issues." |
 | [github-account-switch-cli](https://github.com/TheDevOpsBlueprint/github-account-switch-cli)      | Go                        | Command-line tool to switch between multiple GitHub accounts seamlessly. |
 | [AlgoRise](https://github.com/Hackeries/AlgoRise)                                                 | Next.js, Supabase, Tailwind | Full-stack platform for competitive programmers: contests, tracking, and recommendations. |
+| [Notakto](https://github.com/rakshitg600/notakto-website)                                                 | Next.js,Firebase,websocket, Tailwind, react | A unique online board game. |
 
 
 
