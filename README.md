@@ -33,6 +33,16 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [Percupuff](https://github.com/lilyvanoekel/percupuff)                                            | Cmajor, TypeScript, React | Open-source drum synthesizer that generates unique percussion sounds. Runs as plugin, standalone app, or in browser. |
 | [vailabel-studio](https://github.com/vailabel/vailabel-studio)                                    | TypeScript, Python        | Lightweight AI-powered auto labeling tool for fast and intelligent annotation. |
 | [Daffodil](https://github.com/graycoreio/daffodil)                                                | TypeScript, HTML, CSS     | Ecommerce development framework for building high-quality storefronts with any backend. |
+| [FEAScript-core](https://github.com/FEAScript/FEAScript-core)                                     | TypeScript, JS, Web       | Run physics and engineering simulations directly in your browser. |
+| [weam-ai](https://github.com/weam-ai/weam)                                                        | TypeScript, Python        | Open-source AI collaboration hub for connecting LLMs, sharing prompts, and building agents/apps. |
+| [NodeBox](https://github.com/shreyansh-shankar/NodeBox)                                           | Python                    | Visual automation platform like n8n, but powered by Python nodes. |
+| [alix-cli](https://github.com/TheDevOpsBlueprint/alix-cli)                                        | Rust, Shell               | htop-style terminal UI for managing shell aliases. |
+| [fluss](https://github.com/apache/fluss)                                                          | Java (Python soon)        | Tech modules project: Lakehouses, Vector DBs, Query Engines, Realtime Messaging. |
+| [hacking-tutorial](https://github.com/amandewatnitrr/hacking-tutorial)                            | Python, Bash              | Cybersecurity foundation repo with hacking scripts and lessons. |
+| [topgrade](https://github.com/topgrade-rs/topgrade)                                               | Rust                      | Automates upgrading your system, supports Hacktoberfest with easy "good first issues." |
+| [github-account-switch-cli](https://github.com/TheDevOpsBlueprint/github-account-switch-cli)      | Go                        | Command-line tool to switch between multiple GitHub accounts seamlessly. |
+| [AlgoRise](https://github.com/Hackeries/AlgoRise)                                                 | Next.js, Supabase, Tailwind | Full-stack platform for competitive programmers: contests, tracking, and recommendations. |
+
 
 
 ## How to Contribute
