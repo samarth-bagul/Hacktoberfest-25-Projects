@@ -43,6 +43,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [github-account-switch-cli](https://github.com/TheDevOpsBlueprint/github-account-switch-cli)      | Go                        | Command-line tool to switch between multiple GitHub accounts seamlessly. |
 | [AlgoRise](https://github.com/Hackeries/AlgoRise)                                                 | Next.js, Supabase, Tailwind | Full-stack platform for competitive programmers: contests, tracking, and recommendations. |
 | [Notakto](https://github.com/rakshitg600/notakto-website)                                                 | Next.js,Firebase,websocket, Tailwind, react | A unique online board game. |
+| [The-Dev-Pocket](https://github.com/Darshan3690/The-Dev-Pocket)                                   | Next.js, Supabase, Tailwind | Curated resources, roadmaps, and interactive tools for learners, plus competitive programming platform. |
 
 
 
