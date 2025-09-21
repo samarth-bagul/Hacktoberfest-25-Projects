@@ -44,6 +44,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | [AlgoRise](https://github.com/Hackeries/AlgoRise)                                                 | Next.js, Supabase, Tailwind | Full-stack platform for competitive programmers: contests, tracking, and recommendations. |
 | [Notakto](https://github.com/rakshitg600/notakto-website)                                                 | Next.js,Firebase,websocket, Tailwind, react | A unique online board game. |
 | [The-Dev-Pocket](https://github.com/Darshan3690/The-Dev-Pocket)                                   | Next.js, Supabase, Tailwind | Curated resources, roadmaps, and interactive tools for learners, plus competitive programming platform. |
+| [Awesome SaaS](https://github.com/alchemyst-ai/awesome-saas)                                   | TypeScript, Python | Collection of templates using the Alchemyst AI Platform for your next big AI app. |
 
 
 
