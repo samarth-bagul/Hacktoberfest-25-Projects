@@ -47,6 +47,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 22     | [Awesome SaaS](https://github.com/alchemyst-ai/awesome-saas)                                      | TypeScript, Python          | Collection of templates using the Alchemyst AI Platform for your next big AI app.            |
 | 23     | [GraphScript](https://github.com/graphscript-labs/)                                              | Python, JavaScript, Shell   | Visual Scripting Engine (prototype) for building and experimenting with scripting workflows. |
 | 24     | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)   | Bash                        | Open-source ebook for learning Bash scripting. Covers basics to help automate SysOps, DevOps, and daily Linux tasks. |
+| 25 | [Topic Tracker](https://github.com/kunal534/Topic_Tracker/tree/v1-mvp-working) | Python, APIs | Backend system that tracks, summarizes, and delivers recent updates from YouTube and Reddit for any topic. |
 
 
 
