@@ -45,7 +45,7 @@ git checkout -b project-golearn
    * Format:
 
      ```markdown
-     | [project-name](project-link) | tech stack | short description |
+     | SrNo | [project-name](project-link) | tech stack | short description |
      ```
    * Keep the description short (max 120 characters).
 3. Before making a PR, ensure your repository has the **`hacktoberfest` topic** added.
