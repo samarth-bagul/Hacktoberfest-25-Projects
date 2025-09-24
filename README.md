@@ -51,6 +51,13 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 26 | [ingest](https://github.com/realChakrawarti/ingest) | React, Node.js, APIs | Build and share public catalogs combining YouTube channels, playlists, and subreddits. Auto-updates every 4 hours with distraction-free feeds. |
 | 27 | [Proton](https://github.com/pinely-international/proton/) | TypeScript, JavaScript | React-like library that removes root components, supports any state manager, async components, and high customizability. Part of the Denshya frontend ecosystem. |
 | 28 | [Super Tiny Icons](https://github.com/edent/supertinyicons/) | SVG | Collection of SVG icons under 1KB each. Creative challenge to fit app and website logos into minimal SVG size. |
+| 29 | [MailLogSentinel](https://github.com/monozoide/MailLogSentinel) | Python                      | Lightweight Postfix SASL log watchdog that tracks SASL brute force attempts and exports data to CSV/SQLite for analysis. |
+| 30 | [Resonate](https://github.com/resonatehq/resonate/) | Go                          | Distributed applications programming model. Includes Resonate Server and a custom Deterministic Simulation Test Framework. |
+| 31 | [gunicorn-prometheus-exporter](https://github.com/Agent-Hellboy/gunicorn-prometheus-exporter) | Python                      | Prometheus exporter for Gunicorn metrics such as worker/master performance, request durations, and resource usage. |
+| 32 | [Polypm](https://github.com/VesperAkshay/polypm) | Rust, Python, Bash          | Unified package manager for managing dependencies in JavaScript and Python projects with a single command. |
+| 33 | [MCP Server Fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) | Python                      | CLI-based fuzzing tool for testing MCP servers, exposing edge cases, and providing crash reports for debugging. |
+| 34 | [Celtrix](https://github.com/celtrix-os/Celtrix) | JavaScript, TypeScript      | Scaffolding tool for spinning up full-stack projects instantly with stacks like MERN, MEAN, T3, and more. |
+| 35 | [Resonate Python SDK](https://github.com/resonatehq/resonate-sdk-py/issues) | Python                      | SDK for Resonate distributed system programming model, enabling smooth interaction for distributed/agentic systems engineering. |
 
 
 
