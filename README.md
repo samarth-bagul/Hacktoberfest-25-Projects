@@ -47,11 +47,11 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 22     | [Awesome SaaS](https://github.com/alchemyst-ai/awesome-saas)                                      | TypeScript, Python          | Collection of templates using the Alchemyst AI Platform for your next big AI app.            |
 | 23     | [GraphScript](https://github.com/graphscript-labs/)                                              | Python, JavaScript, Shell   | Visual Scripting Engine (prototype) for building and experimenting with scripting workflows. |
 | 24     | [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)   | Bash                        | Open-source ebook for learning Bash scripting. Covers basics to help automate SysOps, DevOps, and daily Linux tasks. |
-| 25 | [Topic Tracker](https://github.com/kunal534/Topic_Tracker/tree/v1-mvp-working) | Python, APIs | Backend system that tracks, summarizes, and delivers recent updates from YouTube and Reddit for any topic. |
-| 26 | [ingest](https://github.com/realChakrawarti/ingest) | React, Node.js, APIs | Build and share public catalogs combining YouTube channels, playlists, and subreddits. Auto-updates every 4 hours with distraction-free feeds. |
-| 27 | [Proton](https://github.com/pinely-international/proton/) | TypeScript, JavaScript | React-like library that removes root components, supports any state manager, async components, and high customizability. Part of the Denshya frontend ecosystem. |
-| 28 | [Super Tiny Icons](https://github.com/edent/supertinyicons/) | SVG | Collection of SVG icons under 1KB each. Creative challenge to fit app and website logos into minimal SVG size. |
-| 29 | [Celtrix](https://github.com/celtrix-os/Celtrix) | JavaScript | A web application scaffolder that lets you set up a complete web-project with a single command. |
+| 25     | [Topic Tracker](https://github.com/kunal534/Topic_Tracker/tree/v1-mvp-working) | Python, APIs | Backend system that tracks, summarizes, and delivers recent updates from YouTube and Reddit for any topic. |
+| 26     | [ingest](https://github.com/realChakrawarti/ingest) | React, Node.js, APIs | Build and share public catalogs combining YouTube channels, playlists, and subreddits. Auto-updates every 4 hours with distraction-free feeds. |
+| 27     | [Proton](https://github.com/pinely-international/proton/) | TypeScript, JavaScript | React-like library that removes root components, supports any state manager, async components, and high customizability. Part of the Denshya frontend ecosystem. |
+| 28     | [Super Tiny Icons](https://github.com/edent/supertinyicons/) | SVG | Collection of SVG icons under 1KB each. Creative challenge to fit app and website logos into minimal SVG size. |
+| 29     | [Celtrix](https://github.com/celtrix-os/Celtrix) | JavaScript | A web application scaffolder that lets you set up a complete web-project with a single command. |
 
 
 ## How to Contribute
