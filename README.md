@@ -50,7 +50,6 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 25 | [Topic Tracker](https://github.com/kunal534/Topic_Tracker/tree/v1-mvp-working) | Python, APIs | Backend system that tracks, summarizes, and delivers recent updates from YouTube and Reddit for any topic. |
 | 26 | [ingest](https://github.com/realChakrawarti/ingest) | React, Node.js, APIs | Build and share public catalogs combining YouTube channels, playlists, and subreddits. Auto-updates every 4 hours with distraction-free feeds. |
 | 27 | [Proton](https://github.com/pinely-international/proton/) | TypeScript, JavaScript | React-like library that removes root components, supports any state manager, async components, and high customizability. Part of the Denshya frontend ecosystem. |
-| 28 | [Super Tiny Icons](https://github.com/edent/supertinyicons/) | SVG | Collection of SVG icons under 1KB each. Creative challenge to fit app and website logos into minimal SVG size. 
 
 
 ## How to Contribute
