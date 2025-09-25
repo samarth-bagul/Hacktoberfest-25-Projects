@@ -56,6 +56,9 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 33 | [Polypm](https://github.com/VesperAkshay/polypm) | Rust, Python, Bash | Unified package manager for managing dependencies in JavaScript and Python projects with a single command. |
 | 34 | [MCP Server Fuzzer](https://github.com/Agent-Hellboy/mcp-server-fuzzer) | Python | CLI-based fuzzing tool for testing MCP servers, exposing edge cases, and providing crash reports for debugging. |
 | 35 | [Resonate Python SDK](https://github.com/resonatehq/resonate-sdk-py/issues) | Python | SDK for Resonate distributed system programming model, enabling smooth interaction for distributed/agentic systems engineering. |
+| 36 | [CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) | Python, LangChain, LSP | Codebase analysis tool that generates interactive diagrams using static analysis and LLM agents to support onboarding and documentation. |
+| 37 | [Resonate TypeScript SDK](https://github.com/resonatehq/resonate-sdk-ts/issues) | TypeScript | SDK for Resonate distributed system programming model, enabling developers to build scalable cloud and agentic applications. |
+| 38 | [AI Robo Advisor](https://github.com/matvix90/ai-robo-advisor) | Python, LangGraph, Finance APIs | AI-powered robo-advisor that simplifies ETF investing by building and analyzing portfolios with hedge-fund-style strategies. |
 
 
 ## How to Contribute
