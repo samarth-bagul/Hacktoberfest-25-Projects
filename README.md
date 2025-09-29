@@ -59,6 +59,15 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 36 | [CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) | Python, LangChain, LSP | Codebase analysis tool that generates interactive diagrams using static analysis and LLM agents to support onboarding and documentation. |
 | 37 | [Resonate TypeScript SDK](https://github.com/resonatehq/resonate-sdk-ts/issues) | TypeScript | SDK for Resonate distributed system programming model, enabling developers to build scalable cloud and agentic applications. |
 | 38 | [AI Robo Advisor](https://github.com/matvix90/ai-robo-advisor) | Python, LangGraph, Finance APIs | AI-powered robo-advisor that simplifies ETF investing by building and analyzing portfolios with hedge-fund-style strategies. |
+| 39 | [Go Interview Practice](https://github.com/RezaSi/go-interview-practice) | Go | Interactive Go interview platform with 30+ coding challenges, tutorials, and package-specific exercises (Gin, Cobra, GORM, Redis, MongoDB). |
+| 40 | [OpenRTX](https://github.com/OpenRTX/OpenRTX) | C, C++, CMake | Open-source ham radio and embedded development project, participating in Hacktoberfest with issues for contributors. |
+| 41 | [ReqSmith](https://github.com/VesperAkshay/reqsmith) | Python | Command-line API testing tool for REST and GraphQL with AI-powered assistance, caching, and color-coded outputs. |
+| 42 | [cutler](https://github.com/cutlerCLI/cutler) | Rust | macOS setup automation tool that configures Macs with a single command and file. |
+| 43 | [humdrum](https://github.com/Agent-Hellboy/humdrum) | Python | CLI tool using YouTube Data API v3 to fetch YouTube videos. Can be extended into a TUI with Rich or similar libraries. |
+| 44 | [Hacktoberfest2025](https://github.com/yesiamrajeev/Hacktoberfest2025) | C/C++, JavaScript, Python | Beginner-friendly Hacktoberfest project for first pull requests, encouraging participation and contributions. |
+| 45 | [Disease Prediction](https://github.com/aliviahossain/Disease-prediction) | Python, JavaScript, HTML, CSS, Flask | Applies Bayes' Theorem for survival prediction based on hospital data with a simple web interface. |
+| 46 | [Kestra](https://github.com/kestra-io/kestra) | HTML, CSS, JavaScript | Workflow orchestration platform with 22k+ stars. Offers good first issues, challenges, and giveaways for Hacktoberfest. |
+| 47 | [Wooak](https://github.com/aryasoni98/wooak) | Go | Terminal-based SSH manager with AI-powered recommendations, enterprise-grade security, and intuitive server management. |
 
 
 ## How to Contribute
