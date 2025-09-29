@@ -78,6 +78,9 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 55 | [Broken-Link Website](https://github.com/Deadlink-Hunter/Broken-Link-Website) | JavaScript, TypeScript, CSS | Tool for detecting outdated or broken links in GitHub READMEs. Open to devs, designers, and non-code contributors. |
 | 56 | [raylib](https://github.com/raysan5/raylib) | C, Lua | Popular graphics library supporting 70+ languages and many platforms. Aimed at making graphics simple to use. |
 | 57 | [ZettaNote](https://github.com/braydenidzenga/zettanote) | Node.js, Express, MongoDB, React, Vite | Open-source note-taking app inspired by Notion with Markdown, templates, sharing, and real-time collaboration. |
+| 58 | [Guessync](https://github.com/yep-yogesh/Guessync) | JavaScript, React, Node.js, MongoDB, Socket.IO | Real-time multiplayer music guessing game with Spotify/YouTube integration, live chat, AI-powered hints, and typo-tolerant guesses. |
+| 59 | [rclip](https://github.com/yurijmikhalevich/rclip) | Python | Command-line photo search tool powered by OpenAI CLIP. Lets you search images by text queries across directories, with terminal image preview support. |
+| 60 | [Kubestellar](https://github.com/kubestellar/kubestellar) | Go, Shell, Python | Multi-cluster Kubernetes management with a single control plane. GitOps-native, secure, and edge-friendly with beginner-friendly and advanced contribution opportunities. |
 
 
 ## How to Contribute
