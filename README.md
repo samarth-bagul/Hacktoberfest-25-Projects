@@ -68,6 +68,16 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 45 | [Disease Prediction](https://github.com/aliviahossain/Disease-prediction) | Python, JavaScript, HTML, CSS, Flask | Applies Bayes' Theorem for survival prediction based on hospital data with a simple web interface. |
 | 46 | [Kestra](https://github.com/kestra-io/kestra) | HTML, CSS, JavaScript | Workflow orchestration platform with 22k+ stars. Offers good first issues, challenges, and giveaways for Hacktoberfest. |
 | 47 | [Wooak](https://github.com/aryasoni98/wooak) | Go | Terminal-based SSH manager with AI-powered recommendations, enterprise-grade security, and intuitive server management. |
+| 48 | [spring-blog-backend](https://github.com/HacktoberBlog/SpringBootBackend) | Java, Spring Boot, Firestore, Redis | Backend for a blogging platform with OTP, built for newcomers. Deployed so contributors can see changes live or build their own frontend. |
+| 49 | [Spewer](https://github.com/Agent-Hellboy/spewer) | Python | Debugging library for tracing Python execution. Logs variables, function calls, and control flow to explore CPython runtime. Great for learning Python internals. |
+| 50 | [Planes](https://github.com/xxxcucus/planes) | C++, Kotlin, Qt, Jetpack Compose | Multiplatform board game app with desktop (Qt), Android (XML), and Jetpack Compose projects. |
+| 51 | [Tranzit](https://github.com/kr5hn4/tranzit) | Rust, SCSS, Svelte | Cross-platform local network file-sharing app. Contributions include testing, translations, website updates, and MacOS builds. |
+| 52 | [wger](https://github.com/wger-project/wger) | Python, Django, TypeScript, React, Flutter, Dart | Self-hostable fitness app. Multiple repos for backend, frontend, and mobile. Open to code and non-code contributions (UI, translations, docs). |
+| 53 | [qryptchat-web](https://github.com/profullstack/qryptchat-web) | JavaScript, Svelte | Quantum-safe end-to-end encrypted chat application. |
+| 54 | [Paisable](https://github.com/Code-A2Z/paisable) | JavaScript, HTML, React, Node.js, MongoDB | Full-stack personal finance tracker with OCR using Google Gemini AI. Includes auth, receipts, and live deployment. |
+| 55 | [Broken-Link Website](https://github.com/Deadlink-Hunter/Broken-Link-Website) | JavaScript, TypeScript, CSS | Tool for detecting outdated or broken links in GitHub READMEs. Open to devs, designers, and non-code contributors. |
+| 56 | [raylib](https://github.com/raysan5/raylib) | C, Lua | Popular graphics library supporting 70+ languages and many platforms. Aimed at making graphics simple to use. |
+| 57 | [ZettaNote](https://github.com/braydenidzenga/zettanote) | Node.js, Express, MongoDB, React, Vite | Open-source note-taking app inspired by Notion with Markdown, templates, sharing, and real-time collaboration. |
 
 
 ## How to Contribute
