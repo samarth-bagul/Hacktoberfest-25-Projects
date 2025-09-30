@@ -95,6 +95,8 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 72 | [101 Linux Commands](https://github.com/bobbyiliev/101-linux-commands) | Python | Turn Linux commands ebook into a Python CLI tool; beginner-friendly issues for CLI setup, commands, and GitHub Actions. |
 | 73 | [TerraQuake API](https://github.com/nagcas/TerraQuakeApi) | Python, REST API | API for real-time and historical earthquake data; contribute endpoints, docs, and usage examples. |
 | 74 | [busez](https://github.com/zeforgezenica/busez) | JavaScript | Public transport timetable app for Zenica (Bosnia); looking for contributors of all skill levels for 2025. |
+| 75 | [AlumConnect](https://github.com/agastya3636/AlumConnect) | JavaScript | Web platform to connect alumni with their alma mater. Open for contributors to fix bugs, add features, improve docs, and review code. |
+| 76 | [Cyclone Node](https://gitlab.com/moe_cyclone/cyclone-node) | Kotlin | Client for qBitTorrent, part of the plexrequests project. Features include category/tag management, file operations, and download control. Future plans: unified backend, auth, and Filebrowser integration. |
 
 
 ## How to Contribute
