@@ -97,6 +97,16 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 74 | [busez](https://github.com/zeforgezenica/busez) | Typescript, JavaScript | Public transport timetable app for Zenica (Bosnia); looking for contributors of all skill levels for 2025. |
 | 75 | [AlumConnect](https://github.com/agastya3636/AlumConnect) | JavaScript | Web platform to connect alumni with their alma mater. Open for contributors to fix bugs, add features, improve docs, and review code. |
 | 76 | [Cyclone Node](https://gitlab.com/moe_cyclone/cyclone-node) | Kotlin | Client for qBitTorrent, part of the plexrequests project. Features include category/tag management, file operations, and download control. Future plans: unified backend, auth, and Filebrowser integration. |
+| 77 | [smetovi](https://github.com/zeforgezenica/smetovi) | Astro, React (Leaflet), Cloudflare Pages | Tourism promotion platform for the Smetovi mountain (Zenica). Looking for contributors of all levels. |
+| 78 | [FletX](https://github.com/AllDotPy/FletX) | Python | Lightweight framework for Flet, inspired by GetX. Includes reactive state management, routing, DI, and modular architecture. |
+| 79 | [Uniswap Universal Router Decoder](https://github.com/Elnaril/uniswap-universal-router-decoder) | Python | Decode and encode transactions for Uniswap V2/V3/V4 across Ethereum, BSC, Base, and more. |
+| 80 | [Nixopus](https://github.com/raghavyuva/nixopus) | Go, TypeScript | Open-source alternative to Vercel, Heroku, and Netlify with simplified workflows and a welcoming community. |
+| 81 | [Inquizzitive](https://github.com/sb-decoder/inquizzitive) | JavaScript, CSS, HTML | Interactive quiz application built with React. Open for features, bug fixes, and UI/UX improvements. |
+| 82 | [NEERF](https://github.com/Itz-Agasta/neerf) | Shell, Python, Go | Neural Execution Reversal & Recovery Framework — undo computing framework for ransomware/supply chain attack recovery in cloud. |
+| 83 | [ClipBin](https://github.com/alight659/ClipBin) | HTML, CSS, Python | Secure and anonymous Pastebin alternative for sharing text and code. Host locally or on web. |
+| 84 | [Aibyss](https://github.com/move-fast-and-break-things/aibyss) | TypeScript, Vue, Nuxt, Prisma | Multiplayer coding game where you build AI to compete, with sandboxed code execution. |
+| 85 | [AniNotion](https://github.com/mohitahlawat2001/AniNotion) | JavaScript | Journal app to track anime, movies, and books. Beginner-friendly Hacktoberfest project. |
+| 86 | [DevUtils](https://github.com/ahammadabdullah/dev-utils) | Electron, React, TypeScript, Vite, Tailwind CSS | Developer utility desktop app with JSON validator, regex tester, UUID generator, converters, and more. |
 
 
 ## How to Contribute
